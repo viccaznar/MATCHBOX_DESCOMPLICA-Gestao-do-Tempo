@@ -37,6 +37,8 @@ Ajudar é fundamental, mas na prática profissional exige equilíbrio: nutrir o 
 
 ---
 
+# Há Ordem para Ajudar: A Arte de Auxiliar com Equilíbrio 🚀
+
 ## Desordens da Ajuda ⚠️
 Evite:
 - Tentar dar o que não se tem (balde sem água).  
@@ -57,3 +59,6 @@ Integre:
 
 **A Arte da Ajuda**  
 A verdadeira ajuda ocorre quando oferecemos suporte com respeito e permitimos que o outro cresça por si mesmo, sem julgamentos. Essa prática transforma desafios em crescimento mútuo. 💡✨
+
+
+

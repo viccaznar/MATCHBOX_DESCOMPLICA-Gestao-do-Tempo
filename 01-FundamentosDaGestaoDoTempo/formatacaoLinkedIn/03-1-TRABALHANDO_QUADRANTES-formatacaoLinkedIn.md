@@ -32,3 +32,4 @@
 ### Referências
 - **COVEY, Stephen R.** *Os 7 Hábitos das Pessoas Altamente Eficazes*  
 - **BARBOSA, Christian.** *A Tríade do Tempo* e *60 Estratégias Práticas para Ganhar Mais Tempo*
+

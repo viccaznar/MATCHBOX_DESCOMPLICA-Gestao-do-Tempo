@@ -2,6 +2,21 @@
 
 # TRABALHANDO OS QUATRO QUADRANTES
 
+QI:
+Profissional: Estudo para capacitação intensa.
+Pessoal: Troca de mindset.
+
+QII:
+Profissional: Aprender Mandarim/Chinês.
+Pessoal: Me aperfeiçoar como pianista solista.
+
+QIII:
+Profissional: Procurar mais cursos sobre área de interesse para aprendizagem.
+Pessoal: Realinhar meu circulo social.
+
+QIV:
+Profissional: Pausa longas.
+Pessoal: Redes sociais, noticías e internet.
 
 - **Fundamento:**  
   A matriz divide seu tempo em 4 quadrantes. O objetivo é reduzir atividades nos quadrantes I (Urgente e Importante), III (Urgente, mas Não Importante) e IV (Nem Urgente nem Importante) para liberar mais tempo para o Quadrante II (Importante, mas Não Urgente).
