@@ -1,6 +1,6 @@
-# Resumo e Análise do Texto sobre Gestão do Tempo
+# Resumo e Análise do Texto sobre Gestão do Tempo: 
 
----
+# MATRIZ DO TEMPO
 
 ## Metas 🎯  
 **Fundamento:** Traçar metas (curto, médio, longo prazo) direciona suas ações.  
@@ -34,3 +34,5 @@
 **Fundamento:** Base teórica de autores renomados que transformam hábitos em resultados.  
 **Exemplo Lúdico:** Uma biblioteca mágica repleta de segredos do tempo. 📚  
 **Exemplo Prático:** Leia "Os 7 Hábitos das Pessoas Altamente Eficazes" para enriquecer seu planejamento.
+
+

@@ -1,10 +1,6 @@
 # Resumo dos Conceitos de Gestão do Tempo
 
-## 1. Matriz do Tempo ⏳
-- **Essência:** Divida seu tempo em 4 quadrantes:  
-  I – Urgente/Importante; II – Importante (não urgente); III – Urgente (não importante); IV – Nem urgente nem importante.
-- **Exemplo Lúdico:** QII é o tesouro; os outros, armadilhas. 🎲  
-- **Exemplo Prático:** Reavalie sua agenda e foque no planejamento estratégico (QII).
+# TRABALHANDO OS QUATRO QUADRANTES
 
 ## 2. Eliminação do Quadrante IV 🚫
 - **Essência:** Corte distrações sem valor (TV, internet) e alinhe suas ações ao seu propósito.

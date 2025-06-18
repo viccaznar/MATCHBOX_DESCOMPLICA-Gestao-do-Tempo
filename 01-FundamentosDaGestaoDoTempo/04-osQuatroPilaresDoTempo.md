@@ -1,5 +1,7 @@
 # Resumo dos Conceitos de Gestão do Tempo
 
+# OS QUATRO PILARES DO TEMPO
+
 ## 1. Contatos 📇
 - **Fundamento:**  
   Centralize todas as informações de pessoas (telefone, e-mail, cargo etc.) num único local e cultive tanto os vínculos fortes quanto os fracos para expandir seu networking.

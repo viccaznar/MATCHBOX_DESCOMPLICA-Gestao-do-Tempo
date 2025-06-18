@@ -1,5 +1,7 @@
 # Resumo dos Conceitos de Gestão do E-mail e Reuniões Produtivas
 
+# DICAS IMPORTANTES
+
 Ao otimizar sua caixa de entrada e tornar as reuniões objetivas, você amplia seu foco e eleva a produtividade.
 
 ---

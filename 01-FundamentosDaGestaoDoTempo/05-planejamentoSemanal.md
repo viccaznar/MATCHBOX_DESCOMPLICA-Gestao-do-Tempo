@@ -1,5 +1,7 @@
 # Resumo dos Conceitos de Planejamento Semanal e Gerenciamento do Tempo
 
+# PLANEJAMENTO SEMANAL
+
 Ao aperfeiçoar seu planejamento semanal, você ganha autonomia, organiza suas demandas e valoriza tanto sua vida pessoal quanto profissional.
 
 ---

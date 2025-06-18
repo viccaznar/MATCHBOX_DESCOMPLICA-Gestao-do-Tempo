@@ -1,6 +1,8 @@
 # Resumo dos Conceitos de Gestão do Tempo
 
-## 1. Matriz do Tempo ⏳
+# TRABALHANDO OS QUATRO QUADRANTES
+
+
 - **Fundamento:**  
   A matriz divide seu tempo em 4 quadrantes. O objetivo é reduzir atividades nos quadrantes I (Urgente e Importante), III (Urgente, mas Não Importante) e IV (Nem Urgente nem Importante) para liberar mais tempo para o Quadrante II (Importante, mas Não Urgente).
 - **Exemplo Lúdico:**  
